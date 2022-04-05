@@ -10,3 +10,4 @@ const idadeSomada = idade+3;
 
 console.log(idadeSomada);
 
+
